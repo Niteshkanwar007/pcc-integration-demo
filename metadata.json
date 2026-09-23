@@ -1,0 +1,6 @@
+{
+  "name": "PCC Integration Demo",
+  "description": "Sanitized technical demonstration of a PointClickCare healthcare integration workflow for DME orders using synthetic data and modular integration patterns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
